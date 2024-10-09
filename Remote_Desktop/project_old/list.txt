@@ -1,0 +1,12 @@
+Done for now: 
+ _. - Chat / O
+/   - Music / Need FFMPEG X
+|_  - Command Prompt / O
+
+Next to be implemented: 
+
+    - System Info
+    - Opening camera & microphone
+    - Geolocation 
+    - Screen Viewer
+    - GUI (Highly hard) +++

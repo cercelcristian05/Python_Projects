@@ -1,0 +1,1 @@
+ if current_message == '/0q' or self.interface_server.DisconnectButton() == '/0q':
